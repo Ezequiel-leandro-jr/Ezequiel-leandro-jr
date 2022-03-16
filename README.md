@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Leandro Jr.</h1>
 <h3 align="center">A programming benniger.</h3>
 
-- 🔭 Systems Development Student **Systems Development Student**
+- 🔭 **Systems Development Student**
 
-- 🌱 I’m currently learning C programming and Python **I’m currently learning C programming and Python**
+- 🌱 **I’m currently learning C programming and Python**
 
-- 👯 I intend to share my learning routine **I intend to share my learning routine**
+- 👯 **I intend to share my learning routine**
 
-- 🤝 I’m looking for help with Programming Logic and Programming in C **I’m looking for help with Programming Logic and Programming in C**
+- 🤝 **I’m looking for help with Programming Logic and Programming in C**
 
-- 💬 Ask me about C programming **Ask me about C programming**
+- 💬 **Ask me about C programming**
 
-- 📫 How to reach me **ezequiel.leandro.jr@hotmail.com**
+- 📫 **ezequiel.leandro.jr@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
