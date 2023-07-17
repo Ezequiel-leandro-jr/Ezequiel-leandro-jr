@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Leandro Jr.</h1>
 <h3 align="center">A programming benniger.</h3>
 
-- 🔭 **Systems Development Student**
+- 🔭 **Computer Science Student**
 
-- 🌱 **I’m currently learning C programming and Python**
+- 🌱 **I am currently learning HTML, CSS, JavaScript and Python**
 
 - 👯 **I intend to share my learning routine**
-
-- 🤝 **I’m looking for help with Programming Logic and Programming in C**
-
-- 💬 **Ask me about C programming**
 
 - 📫 **ezequiel.leandro.jr@hotmail.com**
 
