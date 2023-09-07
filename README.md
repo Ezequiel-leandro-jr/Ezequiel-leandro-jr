@@ -3,7 +3,7 @@
 
 - 🔭 **Computer Science Student**
 
-- 🌱 **I am currently learning HTML, CSS, JavaScript and Python**
+- 🌱 **I am currently learning HTML, CSS, JavaScript, Nodejs, Express, SQL, Git, GitHub, and Python**
 
 - 👯 **I intend to share my learning routine**
 
