@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Leandro Jr.</h1>
-<h3 align="center">A programming beginner.</h3>
+<h3 align="center">A dev beginner.</h3>
 
 - 🔭 **Computer Science Student**
 
